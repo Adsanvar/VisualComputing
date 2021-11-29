@@ -1,0 +1,19 @@
+#main
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367354/#b49-sensors-15-03172
+
+#references
+
+#dizenzo
+http://people.csail.mit.edu/tieu/notebook/imageproc/dizenzo86.pdf
+#dizenzo explination
+https://pdfslide.net/documents/improved-direction-estimation-for-di-zenzos-multichannel-image-gradient-operator.html
+
+
+https://docs.opencv.org/4.x/d5/d0f/tutorial_py_gradients.html
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_gradients/py_gradients.html
+https://docs.opencv.org/3.4/d2/d2c/tutorial_sobel_derivatives.html
+
+#java implementation
+https://imagingbook.github.io/imagingbook-common/javadoc/src-html/imagingbook/pub/color/edge/DiZenzoCumaniEdgeDetector.html#line.57
+
+https://docs.opencv.org/4.x/d3/db4/tutorial_py_watershed.html
